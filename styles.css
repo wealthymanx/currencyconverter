@@ -1,0 +1,17 @@
+#gameDiv{
+    font-family: 'Brush Script MT';
+    border: 4px solid;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: rgb(0, 255, 106);
+}
+#userChoice{
+    font-size: 1.5em;
+}
